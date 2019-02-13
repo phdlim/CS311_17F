@@ -1,0 +1,32 @@
+Chang Hyun Park (4):
+      Initial Commit
+      Adding README.md
+      Merge branch 'master' of ssh://cabackup.kaist.ac.kr:19022/CS311-computer-organization/Project2-handout
+      Merge branch 'master' of ssh://cs311.kaist.ac.kr:10022/TAs/Project2
+
+PHDLIM (8):
+      Make R type
+      Make addiu andi(I type)
+      Make beq bne(I type)
+      Finish I type
+      Make J type
+      Correct J type instruction
+      Correct NOR instruction Error
+      Correct Branch instruction and Finish
+
+Park jihee (9):
+      sample output fixed (copy TA's output)
+      parse opcode and instr.value
+      make switch case fot R,I,J type
+      parse instr for R type
+      parse instr for J type
+      parse instr for I type
+      parse data and put data & instr in memory
+      Merge branch 'master' of https://cs311.kaist.ac.kr/Team40/Project2
+      fix initialiation error
+
+Taekyung Heo (3):
+      sample output fixed
+      sample output fixed
+      sample output fixed
+

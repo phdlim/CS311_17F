@@ -1,0 +1,29 @@
+PHDLIM (9):
+      Make cache.c cache.h
+      Fix Errors
+      Merge branch 'master' of https://cs311.kaist.ac.kr/Team40/Project4
+      Fix Use_Cache
+      Fix some more errors in cache
+      Fix store_cache
+      Fix sw errors
+      Finally Cache is correct
+      Merge remote-tracking branch 'upstream/master'
+
+Park jihee (6):
+      integrate pj3
+      random cache
+      initialization loop
+      merege cache to pipeline
+      leaf pass
+      divide case for PIPE state of IF_STAGE
+
+csb1204 (8):
+      handouts
+      minor updates
+      minor updates
+      fixed a few bugs and updated output
+      fixed a few bugs and updated output
+      fixed a few bugs and updated output
+      fixed bugs,new inputs and outputs
+      changing output for strcpy
+

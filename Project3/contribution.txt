@@ -1,0 +1,27 @@
+Chang Hyun Park (6):
+      Initial commit
+      Updates inputs/outputs and Makefile
+      Updates sammple outputs affected by BEQ/BNE behavior change
+      Updates the BEQ test input files
+      Fixes wrong output of example05
+      Timeouts test after 2 seconds
+
+PHDLIM (6):
+      Make Update_Latch
+      Make Update_Latch
+      Merge branch 'master' of https://cs311.kaist.ac.kr/Team40/Project3
+      Make temp function
+      make pipeline without stall or forwarding
+      correct fatal errors
+
+jihee Park (9):
+      remove trailing whitespace
+      fix update_latch part
+      Merge remote-tracking branch 'upstream/master'
+      create some new latches
+      make prototype of MEM and WB stage
+      remove trailing space
+      basic functionality
+      almost finish
+      finish
+
