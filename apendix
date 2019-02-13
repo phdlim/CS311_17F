@@ -1,0 +1,39 @@
+addiu $t, $s, imm   I
+
+addu $d, $s, $t     R
+
+and $d, $s, $t      R
+
+andi $t, $s, imm    I
+
+beq $s, $t, offset  I
+	
+bne $s, $t, offset  I
+
+j target            J
+
+jal target          J
+
+jr $s               R
+
+lui $t, imm         I
+
+lw $t, offset($s)   I
+
+or $d, $s, $t       R
+
+nor $d, $s, $t      R
+
+ori $t, $s, imm     I
+
+sltiu $t, $s, imm   I
+
+sltu $d, $s, $t     R
+
+sll $d, $t, h       R
+
+srl $d, $t, h       R
+
+sw $t, offset($s)   I
+
+subu $d, $s, $t     R
